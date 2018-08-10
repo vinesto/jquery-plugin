@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/hacktiv8/jquery-validate-email/issues"
   },
-  "homepage": "https://github.com/hacktiv8/jquery-validate-email#readme"
+  "homepage": "https://github.com/hacktiv8/jquery-validate-email#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
